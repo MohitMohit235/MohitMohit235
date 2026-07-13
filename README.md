@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mohit Prajapati
+# 𝖧𝗂 , 𝖨'𝗆 𝖬𝗈𝗁𝗂𝗍 𝖯𝗋𝖺𝗃𝖺𝗉𝖺𝗍𝗂
 
 ### Android Developer
 
@@ -15,21 +15,21 @@ I am passionate about Android Development using modern technologies.
 - Hilt
 - Git & GitHub
 
-## 📱 Projects
+## 𝖯𝗋𝗈𝗃𝖾𝖼𝗍𝗌
 
-### 📰 News App
+### 𝖭𝖾𝗐𝗌 𝖠𝗉𝗉
 - News API Integration
 - Retrofit
 - MVVM
 - Jetpack Compose
 
-### 🛒 E-Commerce App
+### 𝖤-𝖢𝗈𝗆𝗆𝖾𝗋𝖼𝖾 𝖠𝗉𝗉
 - Firebase Authentication
 - Firestore
 - Modern UI
 - MVVM Architecture
 
-## 📫 Connect with me
+## 𝖢𝗈𝗇𝗇𝖾𝖼𝗍 𝗐𝗂𝗍𝗁 𝗆𝖾
 
 - LinkedIn: https://linkedin.com/in/mohit-prajapati-android
 - Email: mohitprajapatisingh2002@gmail.com
