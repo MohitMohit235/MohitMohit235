@@ -2,32 +2,30 @@
 
 ### Android Developer
 
-I am passionate about Android Development using modern technologies.
+I am passionate about Android Development and enjoy building modern, scalable,
+and user-friendly mobile applications using Kotlin and Jetpack Compose.
+
+## 𝖠𝖻𝗈𝗎𝗍 𝖬𝖾
+
+-  Android Developer with a focus on modern Android development.
+-  Passionate about writing clean, maintainable, and scalable code.
+-  Currently learning advanced Android development concepts and best practices.
 
 ## 𝖳𝖾𝖼𝗁 𝖲𝗍𝖺𝖼𝗄
 
-- 𝖪𝗈𝗍𝗅𝗂𝗇
-- 𝖩𝖾𝗍𝗉𝖺𝖼𝗄 𝖢𝗈𝗆𝗉𝗈𝗌𝖾 
-- 𝖬𝖵𝖵𝖬 
-- 𝖱𝖾𝗍𝗋𝗈𝖿𝗂𝗍
-- 𝖥𝗂𝗋𝖾𝖻𝖺𝗌𝖾 
-- 𝖱𝗈𝗈𝗆 𝖣𝖺𝗍𝖺𝖻𝖺𝗌𝖾
-- 𝖧𝗂𝗅𝗍
-- 𝖦𝗂𝗍 & 𝖦𝗂𝗍𝖧𝗎𝖻
+I specialize in modern Android development using **Kotlin** and **Jetpack Compose**.  
+I follow the **MVVM Architecture** and build scalable applications by integrating **Retrofit**, **Firebase**, **Room Database**, and **Hilt**.  
+I also use **Git & GitHub** for version control and collaborative development.
   
 ## 𝖯𝗋𝗈𝗃𝖾𝖼𝗍𝗌
 
 ### 𝖭𝖾𝗐𝗌 𝖠𝗉𝗉
-- 𝖭𝖾𝗐𝗌 𝖠𝖯𝖨 𝖨𝗇𝗍𝖾𝗀𝗋𝖺𝗍𝗂𝗈𝗇
-- 𝖱𝖾𝗍𝗋𝗈𝖿𝗂𝗍 
-- 𝖬𝖵𝖵𝖬 
-- 𝖩𝖾𝗍𝗉𝖺𝖼𝗄 𝖢𝗈𝗆𝗉𝗈𝗌𝖾
+A modern Android news application that delivers the latest headlines through News API integration.
+Built using Kotlin, Jetpack Compose, MVVM Architecture, and Retrofit to provide a clean, responsive, and seamless user experience.
 
 ### 𝖤-𝖢𝗈𝗆𝗆𝖾𝗋𝖼𝖾 𝖠𝗉𝗉
-- 𝖥𝗂𝗋𝖾𝖻𝖺𝗌𝖾 𝖠𝗎𝗍𝗁𝖾𝗇𝗍𝗂𝖼𝖺𝗍𝗂𝗈𝗇
-- 𝖥𝗂𝗋𝖾𝗌𝗍𝗈𝗋𝖾 
-- 𝖬𝗈𝖽𝖾𝗋𝗇 𝖴𝖨 
-- 𝖬𝖵𝖵𝖬 𝖠𝗋𝖼𝗁𝗂𝗍𝖾𝖼𝗍𝗎𝗋𝖾
+A feature-rich Android e-commerce application that allows users to browse products, authenticate securely, and manage their shopping experience.
+Developed with Kotlin, Jetpack Compose, Firebase Authentication, Cloud Firestore, and MVVM Architecture for scalability and maintainability.
 
 ## 𝖢𝗈𝗇𝗇𝖾𝖼𝗍 𝗐𝗂𝗍𝗁 𝗆𝖾
 
