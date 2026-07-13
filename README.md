@@ -13,9 +13,9 @@ and user-friendly mobile applications using Kotlin and Jetpack Compose.
 
 ## 𝖳𝖾𝖼𝗁 𝖲𝗍𝖺𝖼𝗄
 
-I specialize in modern Android development using **Kotlin** and **Jetpack Compose**.  
-I follow the **MVVM Architecture** and build scalable applications by integrating **Retrofit**, **Firebase**, **Room Database**, and **Hilt**.  
-I also use **Git & GitHub** for version control and collaborative development.
+My development workflow is centered around **Kotlin**, **Jetpack Compose**, and **MVVM Architecture** to build modern Android applications.  
+I use **Retrofit** for API integration, **Firebase** for authentication and cloud services, **Room Database** for local storage, **Hilt** for dependency injection, and **Unit Testing** to improve code reliability and maintainability.  
+For source code management and collaboration, I rely on **Git & GitHub**.
   
 ## 𝖯𝗋𝗈𝗃𝖾𝖼𝗍𝗌
 
