@@ -32,4 +32,4 @@ I am passionate about Android Development using modern technologies.
 ## 𝖢𝗈𝗇𝗇𝖾𝖼𝗍 𝗐𝗂𝗍𝗁 𝗆𝖾
 
 - 𝖫𝗂𝗇𝗄𝖾𝖽𝖨𝗇: https://linkedin.com/in/mohit-prajapati-android
-- : mohitprajapatisingh2002@gmail.com
+- 𝖤𝗆𝖺𝗂𝗅: mohitprajapatisingh2002@gmail.com
