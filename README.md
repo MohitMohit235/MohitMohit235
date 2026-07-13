@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋, I'm Mohit Prajapati
 
-<!--
-**MohitMohit235/MohitMohit235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Android Developer
 
-Here are some ideas to get you started:
+I am passionate about Android Development using modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 𝖳𝖾𝖼𝗁 𝖲𝗍𝖺𝖼𝗄
+
+- Kotlin
+- Jetpack Compose
+- MVVM
+- Retrofit
+- Firebase
+- Room Database
+- Hilt
+- Git & GitHub
+
+## 📱 Projects
+
+### 📰 News App
+- News API Integration
+- Retrofit
+- MVVM
+- Jetpack Compose
+
+### 🛒 E-Commerce App
+- Firebase Authentication
+- Firestore
+- Modern UI
+- MVVM Architecture
+
+## 📫 Connect with me
+
+- LinkedIn: https://linkedin.com/in/mohit-prajapati-android
+- Email: mohitprajapatisingh2002@gmail.com
